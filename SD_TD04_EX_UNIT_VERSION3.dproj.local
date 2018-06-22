@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/12/12 17:47:38.000.781,C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\Project1.dproj=C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\SD_TD04_EX_UNIT_VERSION3.dproj</Transaction>
+    <Transaction>2017/12/12 17:47:51.000.540,=C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2017/12/12 17:48:21.000.816,C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\Unit1.pas=C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\Unit_SD_TD04_EX_UNIT_VERSION3.pas</Transaction>
+    <Transaction>2017/12/12 17:48:32.000.173,C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\Unit_SD_TD04_EX_UNIT_VERSION3.pas=C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\STRUCTURE DE DONNEES\Unit_SD_TD04_EX_UNIT_VERSION3.pas</Transaction>
+    <Transaction>2017/12/12 17:48:35.000.040,C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\SD_TD04_EX_UNIT_VERSION3.dproj=C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\STRUCTURE DE DONNEES\SD_TD04_EX_UNIT_VERSION3.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
